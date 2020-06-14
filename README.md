@@ -6,6 +6,8 @@ The example flow:
 1. Users can search products by name, brands, colours or price.
 2. Logined user shopping cart can be stored in server side and synchronize with other clients.
 
+The example uses Java 8, Spring Boot, JPA/Hibernate, JUnit, Kafka, JWT.
+
 # Design
 1. System design image: `icommerce-system-design.jpg`
 
