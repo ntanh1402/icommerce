@@ -1,3 +1,11 @@
+# Introduction
+icommerce is simple ecommerce system with profile, product, order, payment and audit service.
+The example here is only profile service and product service with only a few API.
+The example is also following SOLID, DRY, SRP, KISS, ... priciples and apply Builder pattern, Factory method pattern.
+The example flow:
+1. Users can search products by name, brands, colours or price.
+2. Logined user shopping cart can be stored in server side and synchronize with other clients.
+
 # Design
 1. System design image: `icommerce-system-design.jpg`
 
